@@ -249,4 +249,8 @@
     <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Touch the sensor on the side of your device.</string>
     <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Touch the sensor on the side of your phone.</string>
 
+    <!-- DT2S on statusbar-->
+    <string name="double_tap_sleep_title">Tap to sleep</string>
+    <string name="double_tap_sleep_summary">Double-tap anywhere on the status bar to turn off screen</string>
+
 </resources>
